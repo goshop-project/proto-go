@@ -1,4 +1,4 @@
-module goshop.dev/proto/gen
+module goshop.dev/proto
 
 go 1.19
 
